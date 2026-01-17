@@ -1,7 +1,8 @@
-# Quick AI
-
 # 🧠 AI-Powered Application Project
-The AI-Powered Application Project is a comprehensive web application that leverages the power of artificial intelligence to provide users with a wide range of features and functionalities. The application is built using a combination of React, Express.js, and various AI libraries, and is designed to provide a seamless and intuitive user experience. The project aims to solve the problem of providing a platform for users to interact with AI-powered features, such as generating articles, blog titles, and images, as well as removing image backgrounds and objects, and reviewing resumes.
+
+🔗 **Live Demo**: [https://quick-ai-two-rosy.vercel.app/](https://quick-ai-two-rosy.vercel.app/)
+
+The AI-Powered SaaS Application Project is a comprehensive web application that leverages the power of artificial intelligence to provide users with a wide range of features and functionalities. The application is built using a combination of React, Express.js, and various AI libraries, and is designed to provide a seamless and intuitive user experience. The project aims to solve the problem of providing a platform for users to interact with AI-powered features, such as generating articles, blog titles, and images, as well as removing image backgrounds and objects, and reviewing resumes.
 
 ## 🚀 Features
 The application has the following key features:
@@ -36,5 +37,3 @@ To use the application, follow these steps:
 2. Open a web browser and navigate to `http://localhost:3000`
 3. Sign in or sign up for an account using the navigation bar
 4. Explore the application's features and functionalities
-
-
